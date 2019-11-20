@@ -7,11 +7,12 @@ I was required to render an original 2D scene using OpenGL’s modelling and ren
 The scene was created with VBOs, VAOs, texture mapping and transparency blending. 
 
 # Controls
-The scene is interactive and utilisies a small number of controls:
-To Sink: Space 
-Increase/Reset Movement Speed: X
-Increase/Reset Sinking Speed: S
-Night Time Toggle: N
+The scene is interactive and utilisies a small number of controls: 
+
+- To Sink: Space 
+- Increase/Reset Movement Speed: X 
+- Increase/Reset Sinking Speed: S 
+- Night Time Toggle: N 
 
 # Marks Received
 84 out of 100.
